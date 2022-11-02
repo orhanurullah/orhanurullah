@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on javascript
+- 🌱 I’m currently learning java,javascript,php,react,react-native
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/orhanurullah)
 
 <!--
 **orhanurullah/orhanurullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
