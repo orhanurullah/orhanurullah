@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on javascript
+- 🔭 I’m currently working on java and springboot framework
 - 🌱 I’m currently learning java,javascript,php,react,react-native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -11,7 +11,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on javascript
+- 🔭 I’m currently working on java and springboot framework
 - 🌱 I’m currently learning java,javascript,php,react,react-native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
